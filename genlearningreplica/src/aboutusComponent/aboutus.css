@@ -1,0 +1,16 @@
+.textabout{
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 28px;
+    margin-bottom: 70px;
+    color: #0c0303 !important;
+    font-family: Lora!important;
+    font-style: normal;
+}
+.boldname{
+    font-weight: 800;
+    margin:2%;
+}
+.about{
+    margin-bottom: 10%;
+}

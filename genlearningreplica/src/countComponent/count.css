@@ -1,0 +1,13 @@
+.mytoast{
+    font-size: 20px;
+    color: #00000073 !important;
+    font-weight: 800;
+    background-color: #caddcd !important;
+    padding-left: 32% !important;
+}
+
+.toastbody{
+  padding-left: 40% !important;
+  font-weight: 800;
+  font-size: 15px;
+}

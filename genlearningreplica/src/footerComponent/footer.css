@@ -1,0 +1,60 @@
+.backgroundimg {
+    background-image: url('https://cdn.wallpapersafari.com/6/89/Q08POp.jpg');
+    height: 100%;
+}
+.contact-title {
+    font-family: 'Righteous';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    margin: 2% 2% 15px 27px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #fff !important;
+}
+
+.location-details {
+    display: flex;
+    font-family: 'Lora' !important;
+    font-style: normal;
+    margin: 0 0 10px 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.phone-details-wrapper {
+    display: flex;
+    margin: 0 0 10px 0;
+}
+
+img.footer-icon {
+    margin: 2px 11px 0 0;
+}
+
+.address {
+    font-family: 'Lora' !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 31px;
+    color: #FFFFFF;
+}
+
+.phone-number {
+    display: flex;
+    margin: 0px 50px 0px 0px;
+}
+
+.mail-warpper {
+    display: flex;
+}
+.imagepad{
+    margin: 6%;
+}
+
+.phone-number {
+    display: flex;
+}

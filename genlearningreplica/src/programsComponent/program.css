@@ -1,0 +1,16 @@
+.title{
+    color: #fff !important;
+    font-family: Lora!important;
+    font-weight: 800 !important;
+    padding-left: 30%;
+}
+.text{
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 28px;
+    margin-bottom: 70px;
+    color: #fff !important;
+    font-family: Lora!important;
+    font-style: normal;
+    letter-spacing: .01em;
+}
